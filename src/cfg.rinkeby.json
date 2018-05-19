@@ -4,10 +4,10 @@
     "apiServer": "https://ipfs.infura.io:5001"
   },
   "WEB3": {
-    "http": "http://localhost:8545"
+    "http": "https://rinkeby.infura.io/Dy4nhcddBU78aJPZ7TDA"
   },
-  "network": "*",
+  "network": "4",
   "TCRofTCRs": {
-    "registry": "0x3d627fe11843ef6b3d5ec6683d53bd9822696ef6"
+    "registry": "0x8708399ec21db3f10764970c76d352694fa76333"
   }
 }
